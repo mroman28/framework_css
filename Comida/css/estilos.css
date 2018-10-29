@@ -1,0 +1,34 @@
+.logo-img{
+  width: 60%;
+}
+
+body {
+  background-image: url(../img/fondo.jpg);
+  background-repeat:repeat;
+  background-position: center center;
+  background-size: cover;
+/*  width: 100%;
+  height: 100vh;*/
+  background-size:100% auto;
+  background-attachment: fixed;
+    overflow: scroll;
+   font-family: cursive;
+   color: white;
+}
+
+.imgcomida{
+    width: 100%;
+
+}
+
+h4,p,li,a {
+        color: green !important;
+        margin-bottom: 0;
+    }
+
+.principal{
+  background-color: rgba(0,128,128,.5); /*rgba(153, 255, 0, .7);*/
+}
+/*img{
+  max-height: 129px;
+}*/
