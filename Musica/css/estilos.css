@@ -1,0 +1,33 @@
+/* Clase para darle estilos al body */
+/*.cinema-body {
+  background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%:
+}*/
+
+
+/* Clase para darle estilos a la barra de navegacion */
+
+
+
+.img-social{
+  margin-top: 80px;
+  width: 20px;
+  height: 20px;
+}
+
+.aside{
+  height: 60px;
+  width: auto;
+}
+/*
+.form-control {
+
+    height: 10px;
+    border-radius: 10px;
+
+}
+*/
